@@ -8,11 +8,13 @@
   "description": "A bower package for Chris Eppsteins Compass Core",
   "keywords": [
     "SASS",
-    "Compass"
+    "Compass",
+    "CSS"
   ],
   "license": "MIT",
   "ignore": [
     "**/.*",
+    "**/.sass-cache"
     "node_modules",
     "bower_components",
     "test",
