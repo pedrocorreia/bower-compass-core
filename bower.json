@@ -1,6 +1,6 @@
 {
   "name": "bower-compass-core",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "homepage": "https://github.com/pedrocorreia/bower-compass-core",
   "authors": [
     "Pedro Correia <pedro.a.correia@co.sapo.pt>"
@@ -14,7 +14,7 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
-    "**/.sass-cache"
+    "**/.sass-cache",
     "node_modules",
     "bower_components",
     "test",
